@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahnawazKakarh&label=Profile%20views&color=0e75b6&style=flat" alt="ShahnawazKakarh" /> </p>
 
-- 🔭 Stacks on which currently I am working on ** Python, Java and Java Script **
+- 🔭 Stacks on which currently I am working on **Python, Java and Java Script**
 
 - 🌱 Stacks which are in queue to learn i.e., **Golang, Docker, AWS**
 
